@@ -13,7 +13,7 @@ function App() {
   return (
     <div className="App">
       {/* <Lesson02 /> */}
-      <Consultation01 />
+     {/* <Consultation01 /> */}
     </div>
   );
 }
