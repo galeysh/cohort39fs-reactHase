@@ -1,10 +1,17 @@
-import './App.css';
+import "./App.css";
+import MainButton from "./components/Button/Button";
+
+//Lessons
+import Lesson02 from "./lessons/Lesson02/Lesson02";
+
+//Homeworks
 
 function App() {
   return (
     <div className="App">
-        <p>This is our first React app</p>
-      </div>
+      <Lesson02 />
+      {/* <Homework02 /> */}
+    </div>
   );
 }
 
