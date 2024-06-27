@@ -1,0 +1,24 @@
+.consultation01-components {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+  padding: 30px;
+}
+
+.avatar-img {
+  width: 100px;
+  height: 100px;
+}
+
+.example-img-container {
+  width: 120px;
+  height: 200px;
+}
+
+#example-img {
+  width: 100%;
+  height: 100%;
+}
