@@ -6,6 +6,7 @@ function Homework2() {
       <Card />
       <Card />
       <Card />
+      <Card />
     </div>
   );
 }
