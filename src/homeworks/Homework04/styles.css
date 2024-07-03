@@ -4,4 +4,9 @@
     align-items: center;
     justify-content: center;
     flex: 1;
-}
+  }
+  
+  .button-control {
+    width: 300px;
+  }
+  
